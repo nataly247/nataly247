@@ -2,7 +2,7 @@
 
 I'm Nataly, a web developer and content creator.
 
-I love to create ✨ awesome web applications ✨
+I love ✨ awesome web applications ✨ that provide meaningful content and great experiences to users.
 
 - 🔭 I’m currently working on library of UI components.
 - 🌱 I’m learning advanced animations techniques to make modern UIs.
